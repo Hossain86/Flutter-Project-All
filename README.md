@@ -1,4 +1,6 @@
 # tic_tac_toe
+This is a simple Flutter project made by me
+![image](https://github.com/user-attachments/assets/6ef30039-493e-4430-a5f6-133297d8d12a)
 
 A new Flutter project.
 
